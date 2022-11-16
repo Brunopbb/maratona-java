@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìÕºæ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æÀñ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´Øóæ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤ıÅóúÿÿÿÿ
+n
+java:S1128"SRemove this unused import 'ee.ufcg.maratonajava.javacore.ZZClambdas.dominio.Anime'.(¼ÉßÛøÿÿÿÿ

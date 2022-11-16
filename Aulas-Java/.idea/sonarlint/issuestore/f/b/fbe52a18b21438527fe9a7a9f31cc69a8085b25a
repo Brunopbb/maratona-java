@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×¬Õâ8Ñ„¨Õ¯0
+<
+java:S1640"Convert this Map to an EnumMap.(Ë³å 8Ô„¨Õ¯0
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ÑÔª8•ˆ¨Õ¯0
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ8˜ˆ¨Õ¯0

@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×¬Õâ
+Q
+java:S1854";Remove this useless assignment to local variable "collect".(÷àİ“
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(öÂãÿ
+B
+java:S1481",Remove this unused "collect" local variable.(÷àİ“
+Q	java:S125""<This block of commented-out lines of code should be removed.(ûÔ÷€
+n
+java:S1602%"SRemove useless curly braces around statement and then remove useless return keyword(Ôí«ôüÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(É™Êùÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ

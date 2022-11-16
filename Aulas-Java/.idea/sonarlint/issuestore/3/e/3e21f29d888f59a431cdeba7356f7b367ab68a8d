@@ -1,0 +1,13 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¹´á8­î÷‘¯0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ãÆµýÿÿÿÿ8¯î÷‘¯0
+\
+java:S1854"?Remove this useless assignment to local variable "ListToArray".(‚¹´á8¿î÷‘¯0
+M
+java:S1481"0Remove this unused "ListToArray" local variable.(‚¹´á8Åî÷‘¯0
+]	java:S125"<This block of commented-out lines of code should be removed.(ìôýŸüÿÿÿÿ8Æî÷‘¯0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ßöÜÖ8Çî÷‘¯0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ÓŒˆœùÿÿÿÿ8Éî÷‘¯0
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(È©ƒ«8Ìî÷‘¯0
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ßöÜÖ8Ìî÷‘¯0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ÓŒˆœùÿÿÿÿ8Íî÷‘¯0

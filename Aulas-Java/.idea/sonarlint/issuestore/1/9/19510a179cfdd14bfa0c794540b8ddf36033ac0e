@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò„ˆ€şÿÿÿÿ
+_
+java:S1854"DRemove this useless assignment to local variable "animeComparators".(èØŠÿÿÿÿÿ
+P
+java:S1481"5Remove this unused "animeComparators" local variable.(èØŠÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëµüè
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëµüè
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ

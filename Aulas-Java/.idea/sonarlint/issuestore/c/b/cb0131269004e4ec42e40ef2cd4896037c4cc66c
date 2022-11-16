@@ -1,0 +1,9 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×¬Õâ8Ûç¥Õ¯0
+S
+java:S1854"7Remove this useless assignment to local variable "sum".(äÚ¨8ıç¥Õ¯0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·êÜöüÿÿÿÿ8ƒè¥Õ¯0
+D
+java:S1481"(Remove this unused "sum" local variable.(äÚ¨8†è¥Õ¯0
+W
+java:S1128":Remove this unused import 'java.util.stream.DoubleStream'.(óÖĞ©8‡è¥Õ¯0

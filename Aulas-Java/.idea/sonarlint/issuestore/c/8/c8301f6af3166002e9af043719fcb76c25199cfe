@@ -1,0 +1,8 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ãÆµıÿÿÿÿ8‡Àô‘¯0
+c
+java:S1854"ARemove this useless assignment to local variable "mangaIterator".(Ù¢Œşÿÿÿÿ8§Àô‘¯0
+T
+java:S1481"2Remove this unused "mangaIterator" local variable.(Ù¢Œşÿÿÿÿ8®Àô‘¯0
+X	java:S125"<This block of commented-out lines of code should be removed.(úÿ¾÷8¯Àô‘¯0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(â–û¹øÿÿÿÿ8ÆÀô‘¯0

@@ -1,0 +1,8 @@
+
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(÷¿ÇÉùÿÿÿÿ8ë»ñ‘¯0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ãÆµıÿÿÿÿ8À®ë‘¯0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…÷ñ§8Í®ë‘¯0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”øÒ8Î®ë‘¯0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(šî8Ï®ë‘¯0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷¿ÇÉùÿÿÿÿ8Ğ®ë‘¯0
